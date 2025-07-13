@@ -56,11 +56,3 @@ FestAI is an intelligent, fully-automated seasonal demand management platform th
 - Sustainability and waste reduction metrics
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support and questions, please open an issue in the repository or contact the development team. 
