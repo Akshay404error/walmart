@@ -1,0 +1,25 @@
+festai-prototype/
+├── requirements.txt              # Python dependencies
+├── README.md                     # Comprehensive documentation
+├── run_prototype.py             # Startup script
+├── demo.py                      # Demo script
+├── backend/
+│   ├── main.py                  # FastAPI application
+│   ├── api/
+│   │   ├── forecast.py          # Forecasting endpoints
+│   │   ├── inventory.py         # Inventory management endpoints
+│   │   ├── customers.py         # Customer engagement endpoints
+│   │   └── suppliers.py         # Supplier management endpoints
+│   ├── models/
+│   │   ├── forecast_models.py   # Forecasting data models
+│   │   ├── inventory_models.py  # Inventory data models
+│   │   ├── customer_models.py   # Customer data models
+│   │   └── supplier_models.py   # Supplier data models
+│   └── services/
+│       ├── forecasting_service.py    # Multi-signal forecasting
+│       ├── inventory_service.py      # Dynamic inventory management
+│       ├── customer_service.py       # Customer engagement
+│       ├── supplier_service.py       # Supplier collaboration
+│       └── notification_service.py   # Communication services
+└── dashboard/
+    └── main.py                  # Streamlit dashboard
